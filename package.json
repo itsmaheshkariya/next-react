@@ -1,0 +1,21 @@
+{
+  "name": "nextreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "npm run build && next export"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "next": "^6.1.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}

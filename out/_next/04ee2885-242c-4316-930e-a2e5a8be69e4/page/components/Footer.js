@@ -1,0 +1,1 @@
+module.exports=__NEXT_REGISTER_PAGE("/components/Footer",function(){return{page:webpackJsonp([9],{223:function(o,e,n){o.exports=n(121)}},[223]).default}});
