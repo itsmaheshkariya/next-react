@@ -51,7 +51,7 @@ export default class Contact extends React.Component {
                 <div className="col-md-4 contact-right wthree">
 					<div className="contact-text w3-agileits">
 						<h4>GET IN TOUCH :</h4>
-						<p><i className="fa fa-map-marker"></i> Gajanan Nagar,Wathoda layout,<br/>B/h Plazza Bar,Nagpur 99,<br/>Wing No. 3 Rajat Sankul,<br/>Nagpur-10. </p>
+						<p><i className="fa fa-map-marker"></i> Gajanan Nagar,Wathoda layout,<br/>B/h Plazza Bar,Nagpur 99,<br/>Wing No. 3 Rajat Sankul,<br/>Nagpur-10.. </p>
 						<p><i className="fa fa-phone"></i> Telephone : 09823382184</p>
 						<p><i className="fa fa-phone"></i> Telephone : 09823487272</p>
 						<p><i className="fa fa-envelope-o"></i> Email : <a href="mailto: vvisheshta@rediffmail.com"> vvisheshta@rediffmail.com</a></p> 
